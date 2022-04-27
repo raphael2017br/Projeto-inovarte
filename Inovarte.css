@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Yanone+Kaffeesatz:wght@700&display=swap');
+
+body{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    width: 90%;
+    margin: 0 auto;
+    
+}
+.alert-info{
+    padding: 2%;
+    margin-bottom: 2%;
+    color: azure;
+    background-color: rgb(226, 162, 43);
+    width: 100%;
+    border-radius: 0 0 10px 10px;
+}
+.col-md-12{
+    padding: 0;
+}
+.col-md-9{
+    border: 1px black solid;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+.btn-link{
+    text-decoration: none;
+    width: 80%;
+}
+.btn-lg{
+    color: rgb(0, 0, 0);
+    border: solid 1px black;
+    margin-bottom: 10px;
+    background-color: aliceblue;
+    align-content: center;
+}
+.btn-lg:hover{
+    background-color: rgb(226, 162, 43);
+    color: aliceblue;
+}
+.texto-p{
+    font-weight: bold;
+}
+.negrito {
+    font-weight: bold;
+   }
+.imagem{
+    width: 400px;
+}
+.imagem2{
+    width: 80%;
+}
